@@ -8,4 +8,9 @@ add_executable(C__
         "Exercism/#1 Hello world/hello_world.cpp"
         "Exercism/#2 Lasagna/lasagna.cpp"
         "Exercism/#3 Last Will/last_will.cpp"
+        "Exercism/#4 Log levels/log_levels.cpp"
+        "Exercism/#5 Freelancer rates/freelancer_rates.cpp"
+        "Exercism/#6 Pacman Rules/pacman_rules.cpp"
+        "Exercism/#7 Vehicle purchase/vehicle_purchase.cpp"
+        "Exercism/#7 Vehicle purchase/vehicle_purchase.h"
 )
