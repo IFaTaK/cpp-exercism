@@ -17,4 +17,7 @@ add_executable(C__
         "Exercism/#9 Making the grade/making_the_grade.cpp"
         "Exercism/#10 Ellen's Alien Game/ellens_alien_game.cpp"
         "Exercism/#11 Election day/election_day.cpp"
+        "Exercism/#12 Troll the trolls/troll_the_trolls.cpp"
+        "Exercism/#13 Doctor Data/doctor_data.cpp"
+        "Exercism/#13 Doctor Data/doctor_data.h"
 )
