@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+#folder
+/cmake-build-debug
+/.vscode
+/.idea
