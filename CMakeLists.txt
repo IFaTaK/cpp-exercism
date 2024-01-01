@@ -13,4 +13,5 @@ add_executable(C__
         "Exercism/#6 Pacman Rules/pacman_rules.cpp"
         "Exercism/#7 Vehicle purchase/vehicle_purchase.cpp"
         "Exercism/#7 Vehicle purchase/vehicle_purchase.h"
+        "Exercism/#8 Interest is interesting/interest_is_iteresting.cpp"
 )
