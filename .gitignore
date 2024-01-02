@@ -33,5 +33,5 @@
 
 #folder
 /build
+/exec
 /.vscode
-/.idea
