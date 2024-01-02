@@ -5,4 +5,8 @@
 #ifndef C___LEAP_H
 #define C___LEAP_H
 
+namespace leap {
+    bool is_leap_year(int year);
+}  // namespace leap
+
 #endif //C___LEAP_H
